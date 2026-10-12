@@ -1,3 +1,9 @@
+/*
+Purpose: Creates the DataWarehouse database and three schemas: bronze, silver, and gold.
+
+Warning: If the database exists, it will be deleted and recreated, removing all its data.
+*/
+
 USE master;
 GO
 
