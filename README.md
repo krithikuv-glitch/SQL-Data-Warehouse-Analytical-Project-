@@ -42,6 +42,8 @@ SQL-Data-Warehouse-Analytical-Project/
 │   └── gold/
 │
 ├── tests/
+│   ├── quality_checks_Gold.sql
+│   └── quality_checks_Silver.sql
 │
 └── README.md
 ```
